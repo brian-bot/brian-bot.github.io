@@ -16,8 +16,7 @@ My days are spent as Principal Scientist and Head of Outreach and Strategic Deve
 
 My current work aims to make the biomedical research system more effective by challenging the traditional roles of researchers, institutions, funders, and research participants. At its heart, this work is rooted in building trust between these parties as well as with the public at large.
 
-<img src="/images/ccsummit.jpg" alt="Brian at the Creative Commons Summit" style="width:70%;display:block;margin-left:auto;margin-right:auto">
-<div style="text-align: center"> <a href="https://www.flickr.com/photos/ter-burg/34236649351" target="_blank">photo</a> by <a href="https://www.flickr.com/photos/ter-burg/" target="_blank">Sebastiaan ter Burg</a> / <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a></div>
+<img src="/images/whitehouse.jpg" alt="Brian at the White House" style="width:80%;display:block;margin-left:auto;margin-right:auto">
 
 ***
 ***

@@ -9,6 +9,14 @@ permalink: /presentations/
 ***
 <br>
 
+<img src="/images/summittalk.jpg" alt="Brian at CC Summit" style="width:80%;display:block;margin-left:auto;margin-right:auto">
+
+<br>
+
+***
+***
+<br>
+
 I have been an invited speaker at a number of national and international events to share my experiences living at the intersection of biomedical research, technology, and policy. See below for a reverse chronological ordered list of events where I have been invited to speak:
 
 ### Personal top 10 list (rev. chronological order)
