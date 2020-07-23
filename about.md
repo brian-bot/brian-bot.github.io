@@ -16,7 +16,10 @@ My days are spent as Principal Scientist and Head of Outreach and Strategic Deve
 
 My current work aims to make the biomedical research system more effective by challenging the traditional roles of researchers, institutions, funders, and research participants. At its heart, this work is rooted in building trust between these parties as well as with the public at large.
 
+<figure>
 <img src="/images/whitehouse.jpg" alt="Brian at the White House" style="width:80%;display:block;margin-left:auto;margin-right:auto">
+<figcaption style="text-align: center"> 2014 White House OSTP roundtable on patient data donation for research </figcaption>
+</figure>
 
 ***
 ***
@@ -25,7 +28,10 @@ My current work aims to make the biomedical research system more effective by ch
 ### personal life
 When not consumed by the 'professional life' above, I enjoy traveling, hanging with family and friends, spinning vinyl, playing cards, golfing, drinking good coffee or wine (depending on the hour of the day), and barbequing. I live in Seattle, WA and am lucky to have four fruit trees which keep me busy in the summer months. I am a Minnesota native, and am proud of my hearty heritage (see below). If it were socially acceptable, I would be barefoot all day long. If you catch me at the airport traveling back from a (formal) talk, [you'll often see me](/images/travelSandals-small.jpg) still in my dress slacks and shirt, but changed into sandals instead of dress shoes. That's just how I roll.
 
+<figure>
 <img src="/images/winterGolfing.jpg" alt="Golf on christmas morning in Minnesota" style="width:70%;display:block;margin-left:auto;margin-right:auto">
+<figcaption style="text-align: center"> Golfing tradition: December 25, 2015 in St. Cloud, MN </figcaption>
+</figure>
 
 ***
 ***

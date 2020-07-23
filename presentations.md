@@ -9,9 +9,10 @@ permalink: /presentations/
 ***
 <br>
 
+<figure>
 <img src="/images/summittalk.jpg" alt="Brian at CC Summit" style="width:80%;display:block;margin-left:auto;margin-right:auto">
-
-<br>
+<figcaption style="text-align: center"> 2017 Creative Commons Summit: Toronto, CAN </figcaption>
+</figure>
 
 ***
 ***
