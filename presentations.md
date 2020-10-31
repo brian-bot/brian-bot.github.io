@@ -18,7 +18,8 @@ permalink: /presentations/
 ***
 <br>
 
-I have been an invited speaker at a number of national and international events to share my experiences living at the intersection of biomedical research, technology, and policy. See below for a reverse chronological ordered list of events where I have been invited to speak:
+I have been an invited speaker at a number of national and international events to share my experiences living at the intersection of biomedical research, technology, and policy. 
+See below for a reverse chronological ordered list of events where I have been invited to speak:
 
 ### Personal top 10 list (rev. chronological order)
 
