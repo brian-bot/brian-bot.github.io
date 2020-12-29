@@ -13,6 +13,7 @@ description2: community builder
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: BrianMBot
 github_username:  brian-bot
+google_analytics: G-J4MEHVS97Q
 
 # Build settings
 markdown: kramdown
