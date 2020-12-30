@@ -18,10 +18,22 @@ permalink: /community/
 ***
 <br>
 
-I am committed to being an active participant in the open science community. 
+I am committed to being an active participant in the open science, scicomm, and applied ethics communities. 
 Here is a list of community activities I have been involved with:
 
-{% for comm in site.data.community %}
+### Personal top 10 list (rev. chronological order)
+
+{% for comm in site.data.communityTop10 %}
+- **{{ comm.role }}**. *{{ comm.activity }}*. {{ comm.date }}
+{% endfor %}
+
+***
+***
+<br>
+
+### The rest of the best (rev. chronological order)
+
+{% for comm in site.data.communityRest %}
 - **{{ comm.role }}**. *{{ comm.activity }}*. {{ comm.date }}
 {% endfor %}
 
