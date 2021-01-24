@@ -8,8 +8,9 @@
 # Site settings
 title: brian m. bot
 email: brian.bot@sagebase.org
-description1: open science advocate
+description1: open science strategist
 description2: community builder
+description3: bob dylan aficionado
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: BrianMBot
 github_username:  brian-bot
