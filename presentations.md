@@ -37,12 +37,20 @@ See below for a reverse chronological ordered list of events where I have been i
 
 ### The rest of the best (rev. chronological order)
 
+{% assign years = "2020,2019,2018,2017,2016,2015,2014,2013,2012,2009,2008,2007" | split: "," %}
+
+{% for thisyear in years %}
+#### {{ thisyear }}
+
 {% for pres in site.data.presRest %}
-  {% if pres.role == null %}
+  {% if pres.year == thisyear %}
+    {% if pres.role == null %}
 - *{{ pres.talkTitle }}*. <u>{{ pres.talkVenue }}</u>. {{ pres.talkLocation }}. {{ pres.talkDate }}
-  {% else %}
+    {% else %}
 - **{{ pres.role }}**. *{{ pres.talkTitle }}*. <u>{{ pres.talkVenue }}</u>. {{ pres.talkLocation }}. {{ pres.talkDate }}
+    {% endif %}
   {% endif %}
+{% endfor %}
 {% endfor %}
 
 ***

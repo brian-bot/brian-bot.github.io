@@ -24,9 +24,19 @@ Other sources include [PubMed query](http://www.ncbi.nlm.nih.gov/pubmed/?term=((
 
 ### The rest of the best (rev. chronological order)
 
+{% assign years = "2019,2018,2017,2016,2015,2014,2013,2011,2010,2009,2006" | split: "," %}
+
+{% for thisyear in years %}
+#### {{ thisyear }}
+
 {% for pub in site.data.pubRest %}
+
+{% if pub.year == thisyear %}
 - {{ pub.authors }}. *{{ pub.title }}*. <u>{{ pub.journal }}</u>. {{ pub.year }}. [doi:{{ pub.doi }}](https://doi.org/{{ pub.doi }})
+{% endif %}
 {% endfor %}
+{% endfor %}
+
 
 ***
 ***
