@@ -18,8 +18,7 @@ permalink: /presentations/
 ***
 <br>
 
-I have been an invited speaker at a number of national and international events to share my experiences living at the intersection of biomedical research, technology, and policy. 
-See below for a reverse chronological ordered list of events where I have been invited to speak:
+I have been invited to a number of national and international events to speak on a variety of topics such as open science, biomedical research, data sharing, data governance, clinical trials, and the effect of emerging technologies (and decentralization) on the scientific ecosystem. 
 
 ### Personal top 10 list (rev. chronological order)
 
