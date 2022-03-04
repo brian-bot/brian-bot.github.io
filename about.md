@@ -12,15 +12,15 @@ permalink: /about/
 <br>
 
 ### professional life
-My days are spent as Principal Scientist and Head of Outreach and Strategic Development at [Sage Bionetworks](http://www.sagebase.org). 
-Previously, I worked for seven years as a statistician at the [Mayo Clinic](http://www.mayoclinic.org/) primarily in cancer clinical trials and cancer genomics. 
-I have extensive experience working with clinical and genomic data and have long had a passion for exploring ways to make science more open and transparent. 
-I consider myself a science advocate and am involved in a number of national efforts to promote a research ecosystem where participants are treated as partners in the research process. 
-I have also been an [invited speaker at a number of national and international events](/presentations) to share my experiences living at the intersection of biomedical research, technology, and policy. 
-I was recently named by [Mozilla](https://www.mozilla.org/en-US/) as one of "[50 People Who Are Making the Internet a Better Place](https://medium.com/read-write-participate/50-people-who-are-making-the-internet-a-better-place-10a7864403d)" and received the [2020 General Symbiont Award](https://researchsymbionts.org/) recognizing sustained excellence in scientific data sharing.
+I am a passionate scientist, strategist, and open knowledge advocate working at the intersection of data, technology, and governance. 
+This work is centered on creating a more just and equitable data ecosystem primarily through the development and implementation of open practices across a wide range of stakeholders and sectors. 
+I enjoy solving problems with passionate people and for mission-driven organizations.
 
-My current work aims to make the biomedical research system more effective by challenging the traditional roles of researchers, institutions, funders, and research participants. 
-At its heart, this work is rooted in building trust between these parties as well as with the public at large.
+Currently, my days are spent as Chief of Staff at [Sage Bionetworks](http://www.sagebase.org) and Head of Outreach and Strategic Development for the organization. 
+Prior to joining Sage, I worked as a statistician at the [Mayo Clinic](http://www.mayoclinic.org/) for seven years where I focused on colorectal cancer, clinical trials, and high-throughput genomics.
+I have been invited to share my experiences as an advisor to organizations such as the White House Office of Science and Technology Policy, the Bill and Melinda Gates Foundation, and the International Data Forum.
+Additionally, I was recognized by the Mozilla Foundation as one of the “[50 People Who Are Making the Internet a Better Place](https://medium.com/read-write-participate/guiding-change-towards-agency-41a657523ac3)” and received the [2020 Symbiont Award](https://researchsymbionts.org/) for sustained excellence in scientific data sharing.
+
 
 <figure>
 <img src="/images/whitehouse.jpg" alt="Brian at the White House" style="width:80%;display:block;margin-left:auto;margin-right:auto">
@@ -32,8 +32,9 @@ At its heart, this work is rooted in building trust between these parties as wel
 <br>
 
 ### personal life
-When not consumed by the 'professional life' above, I enjoy traveling, hanging with family and friends, spinning vinyl, playing cards, golfing, drinking good coffee or wine (depending on the hour of the day), and barbequing. 
-I live in Seattle, WA and am lucky to have four fruit trees which keep me busy in the summer months. 
+When not consumed by the 'professional life' above, I enjoy traveling, spending time with family and friends, spinning vinyl, playing cards, golfing, drinking good coffee or wine (depending on the hour of the day), and grilling. 
+Lots of grilling.
+I live in Seattle, WA and am lucky to have three fruit trees which keep me busy in the summer months. 
 I am a Minnesota native, and am proud of my hearty heritage (see below). 
 If it were socially acceptable, I would be barefoot all day long. 
 If you catch me at the airport traveling back from a (formal) talk, [you'll often see me](/images/travelSandals-small.jpg) still in my dress slacks and shirt, but changed into sandals instead of dress shoes. 
