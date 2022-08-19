@@ -1,7 +1,7 @@
 ---
 layout: default
 title: home
-description: Personal website for Brian M. Bot, Principal Scientist at Sage Bionetworks in Seattle, WA
+description: Personal website for Brian M. Bot, Data Strategy Consultant
 exclude_from_nav: true
 ---
 
