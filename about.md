@@ -13,13 +13,14 @@ permalink: /about/
 
 ### professional life
 I am a passionate scientist, strategist, and open knowledge advocate working at the intersection of data, technology, and governance. 
-This work is centered on creating a more just and equitable data ecosystem primarily through the development and implementation of open practices across a wide range of stakeholders and sectors. 
-I enjoy solving problems with passionate people and for mission-driven organizations.
-
-Currently, my days are spent as Chief of Staff at [Sage Bionetworks](http://www.sagebase.org) and Head of Outreach and Strategic Development for the organization. 
-Prior to joining Sage, I worked as a statistician at the [Mayo Clinic](http://www.mayoclinic.org/) for seven years where I focused on colorectal cancer, clinical trials, and high-throughput genomics.
+This work is centered on creating a more just and equitable data ecosystem primarily through the development and implementation of ethical data practices across a wide range of stakeholders and sectors. 
 I have been invited to share my experiences as an advisor to organizations such as the White House Office of Science and Technology Policy, the Bill and Melinda Gates Foundation, and the International Data Forum.
 Additionally, I was recognized by the Mozilla Foundation as one of the “[50 People Who Are Making the Internet a Better Place](https://medium.com/read-write-participate/guiding-change-towards-agency-41a657523ac3)” and received the [2020 Symbiont Award](https://researchsymbionts.org/) for sustained excellence in scientific data sharing.
+I enjoy solving problems with passionate people and for mission-driven organizations.
+
+Currently, I am a Data Strategy Consultant working on assignment for the Bill & Melinda Gates Foundation and their [DAC program](https://dac-trials.tghn.org/). 
+Prior to my consulting role(s), I served as Chief of Staff at [Sage Bionetworks](http://www.sagebase.org) and led Outreach and Strategic Development on behalf of the Executive Leadership Team. 
+I also worked as a statistician at the [Mayo Clinic](http://www.mayoclinic.org/) for seven years where I focused on colorectal cancer, clinical trials, and high-throughput genomics.
 
 
 <figure>
