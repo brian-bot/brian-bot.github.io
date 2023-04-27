@@ -18,7 +18,7 @@ I have been invited to share my experiences as an advisor to organizations such 
 Additionally, I was recognized by the Mozilla Foundation as one of the “[50 People Who Are Making the Internet a Better Place](https://medium.com/read-write-participate/guiding-change-towards-agency-41a657523ac3)” and received the [2020 Symbiont Award](https://researchsymbionts.org/) for sustained excellence in scientific data sharing.
 I enjoy solving problems with passionate people and for mission-driven organizations.
 
-Currently, I am a Data Strategy Consultant working on assignment for the Bill & Melinda Gates Foundation and their [DAC program](https://dac-trials.tghn.org/). 
+Currently, I am a Data Strategy Consultant working on assignment for the Bill & Melinda Gates Foundation and serve as the Analytics Unit Lead for their [DAC program](https://dac-trials.tghn.org/). 
 Prior to my consulting role(s), I served as Chief of Staff at [Sage Bionetworks](http://www.sagebase.org) and led Outreach and Strategic Development on behalf of the Executive Leadership Team. 
 I also worked as a statistician at the [Mayo Clinic](http://www.mayoclinic.org/) for seven years where I focused on colorectal cancer, clinical trials, and high-throughput genomics.
 
