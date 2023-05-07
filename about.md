@@ -19,8 +19,8 @@ Additionally, I was recognized by the Mozilla Foundation as one of the “[50 Pe
 I enjoy solving complex, interdisciplinary problems with passionate people and for mission-driven organizations.
 
 Currently, I am a Data Strategy Consultant working on assignment for the Bill & Melinda Gates Foundation and serve as the Analytics Unit Lead for their [DAC program](https://dac-trials.tghn.org/){:target="_blank"}. 
-Prior to my consulting role(s), I spent 11 years with [Sage Bionetworks](http://www.sagebase.org){:target="_blank"} most recently serving as Chief of Staff and leading Outreach and Strategic Development on behalf of the Executive Leadership Team. 
-And if we go in the way-back machine, I worked as a statistician at the [Mayo Clinic](http://www.mayoclinic.org/){:target="_blank"} for seven years where I focused on colorectal cancer, clinical trials, and high-throughput genomics.
+Prior to consulting, I spent 11 years with [Sage Bionetworks](http://www.sagebase.org){:target="_blank"} most recently serving as Chief of Staff and leading Outreach and Strategic Development on behalf of the Executive Leadership Team. 
+And if we go in the wayback machine, I worked as a statistician at the [Mayo Clinic](http://www.mayoclinic.org/){:target="_blank"} for seven years where I focused on colorectal cancer, clinical trials, and high-throughput genomics.
 
 
 <figure>
