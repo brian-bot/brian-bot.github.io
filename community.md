@@ -10,7 +10,7 @@ permalink: /community/
 <br>
 
 <figure>
-<img src="/images/sudan.jpg" alt="Brian in Sudan" style="width:80%;display:block;margin-left:auto;margin-right:auto">
+<img src="/images/sudan.jpg" alt="Brian in Sudan" style="width:90%;display:block;margin-left:auto;margin-right:auto">
 <figcaption style="text-align: center"> 2018 East Africa Open Science Tour: Khartoum, Sudan </figcaption>
 </figure>
 
