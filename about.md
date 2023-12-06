@@ -33,10 +33,9 @@ And if we go in the wayback machine, I worked as a statistician at the [Mayo Cli
 <br>
 
 ### personal life
-When not consumed by the 'professional life' above, I enjoy traveling, spending time with family and friends, spinning vinyl, playing cards, golfing, drinking good coffee or wine (depending on the hour of the day), and grilling. 
+When not consumed by the 'professional life' above, I enjoy traveling, spending time with family and friends, listening to vinyl, playing cards, golfing, drinking good coffee or wine (depending on the hour of the day), and grilling. 
 Lots of grilling.
-I live in Seattle, WA and am lucky to have three fruit trees which keep me busy in the summer months. 
-I am a Minnesota native, and am proud of my hearty heritage (see below). 
+My wife and I live in Seattle, WA - however I am a Minnesota native who is proud of his (once) hearty heritage (see below). 
 
 <figure>
 <img src="/images/winterGolfing.jpg" alt="Golf on christmas morning in Minnesota" style="width:70%;display:block;margin-left:auto;margin-right:auto">
