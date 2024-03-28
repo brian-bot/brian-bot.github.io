@@ -1,7 +1,7 @@
 ---
 layout: default
 title: home
-description: Personal website for Brian M. Bot, Data Strategy Consultant
+description: Personal website for Brian M. Bot
 exclude_from_nav: true
 ---
 
