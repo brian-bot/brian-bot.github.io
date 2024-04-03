@@ -12,7 +12,7 @@ permalink: /about/
 <br>
 
 ### professional life
-I am a passionate data scientist, strategist, and open knowledge advocate working at the intersection of data, technology, and biomedical research.  
+I am a passionate data scientist, strategist, and open knowledge advocate working at the intersection of data, technology, and biomedical research.
 This work is centered on creating a more just and equitable data ecosystem primarily through the development and implementation of ethical data practices across a wide range of stakeholders and sectors. 
 I have been invited to share my experiences as an advisor to organizations such as the White House Office of Science and Technology Policy, the Bill and Melinda Gates Foundation, and the International Data Forum.
 Additionally, I was recognized by the Mozilla Foundation as one of the “[50 People Who Are Making the Internet a Better Place](https://medium.com/read-write-participate/guiding-change-towards-agency-41a657523ac3){:target="_blank"}” and received the [2020 Symbiont Award](https://researchsymbionts.org/){:target="_blank"} for sustained excellence in scientific data sharing.
