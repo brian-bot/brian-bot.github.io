@@ -8,7 +8,7 @@
 # Site settings
 title: brian m. bot
 email: brian.bot@sagebase.org
-description1: open knowledge and data strategist
+description1: data science, biomedical research, and governance
 description2: community builder
 description3: bob dylan aficionado
 baseurl: "" # the subpath of your site, e.g. /blog

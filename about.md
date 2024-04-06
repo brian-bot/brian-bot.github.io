@@ -18,7 +18,7 @@ I have been invited to share my experiences as an advisor to organizations such 
 Additionally, I was recognized by the Mozilla Foundation as one of the “[50 People Who Are Making the Internet a Better Place](https://medium.com/read-write-participate/guiding-change-towards-agency-41a657523ac3){:target="_blank"}” and received the [2020 Symbiont Award](https://researchsymbionts.org/){:target="_blank"} for sustained excellence in scientific data sharing.
 I enjoy solving complex, interdisciplinary problems with passionate people and for mission-driven organizations.
 
-I am currently Director of Data Science Partnerships at [Fred Hutch](https://www.fredhutch.org/en.html){:target="_blank"} as part of their [Data Science Lab (DaSL)](https://hutchdatascience.org/){:target="_blank"}. 
+I am currently Director of Data Science Partnerships at [Fred Hutch Cancer Center](https://www.fredhutch.org/en.html){:target="_blank"} as part of their [Data Science Lab (DaSL)](https://hutchdatascience.org/){:target="_blank"}. 
 Previously, I worked as a Data Strategy Consultant working on assignment for the Bill & Melinda Gates Foundation where I lead the Analytics Unit for their [DAC program](https://dac-trials.org/){:target="_blank"} and spent 11 years with [Sage Bionetworks](http://www.sagebionetworks.org){:target="_blank"} most recently serving as Chief of Staff and leading Outreach and Strategic Development on behalf of the Executive Leadership Team. 
 And if we go in the wayback machine, I worked as a statistician at the [Mayo Clinic](http://www.mayoclinic.org/){:target="_blank"} for seven years where I focused on colorectal cancer, clinical trials, and high-throughput genomics.
 
