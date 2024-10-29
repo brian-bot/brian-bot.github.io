@@ -14,6 +14,8 @@ description3: bob dylan aficionado
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: BrianMBot
 github_username:  brian-bot
+linkedin_username:  brianmbot
+googlescholar_username: Brian M. Bot
 google_analytics: G-J4MEHVS97Q
 
 # Build settings
