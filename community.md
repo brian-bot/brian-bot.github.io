@@ -18,8 +18,7 @@ permalink: /community/
 ***
 <br>
 
-I am committed to being an active participant in the open science, biomedical research, and applied research ethics communities. 
-Here is a list of community activities I have been involved with:
+I am an active participant in a variety of research communities. 
 
 ### Personal top 10 list (rev. chronological order)
 
