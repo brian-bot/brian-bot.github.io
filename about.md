@@ -9,9 +9,8 @@ permalink: /about/
 ***
 <br>
 
-I am a passionate data scientist, strategist, and open knowledge advocate working at the intersection of data, technology, and biomedical research.
-This work is centered on creating a more just and equitable data ecosystem primarily through the development and implementation of ethical data practices across a wide range of stakeholders and sectors. 
-I am currently Director of AI & Data Science Partnerships at [Fred Hutch Cancer Center](https://www.fredhutch.org/en.html){:target="_blank"} and Founding Executive Director of the Strategic Coordinating Center for the [Cancer AI Alliance](https://www.canceralliance.ai/){:target="_blank"}. 
+I am the Director of AI & Data Science Partnerships at [Fred Hutch Cancer Center](https://www.fredhutch.org/en.html){:target="_blank"} and Director of the [Cancer AI Alliance (CAIA)](https://www.canceralliance.ai/){:target="_blank"} Strategic Coordinating Center. 
+I am a data scientist, strategist, and open knowledge advocate who has spent my career leading large-scale initiatives that operate at the intersection of data, technology, and biomedical research. 
 
 I have been invited to share my experiences as an advisor to organizations such as the White House Office of Science and Technology Policy, the Bill and Melinda Gates Foundation, and the International Data Forum.
 Additionally, I was recognized by the Mozilla Foundation as one of the “[50 People Who Are Making the Internet a Better Place](https://medium.com/read-write-participate/guiding-change-towards-agency-41a657523ac3){:target="_blank"}” and received the [2020 Symbiont Award](https://researchsymbionts.org/){:target="_blank"} for sustained excellence in scientific data sharing.
@@ -21,12 +20,16 @@ And if we go in the wayback machine, I worked as a statistician at the [Mayo Cli
 
 I enjoy solving complex, interdisciplinary problems with passionate people and for mission-driven organizations.
 
+<br>
+
+***
+***
+<br>
 
 <figure>
-<img src="/images/whitehouse.jpg" alt="Brian at the White House" style="width:80%;display:block;margin-left:auto;margin-right:auto">
-<figcaption style="text-align: center"> 2014 White House OSTP roundtable on patient data donation for research </figcaption>
+<img src="/images/geekwire.jpg" alt="Brian at GeekWire Awards" style="width:80%;display:block;margin-left:auto;margin-right:auto">
+<figcaption style="text-align: center"> Accepting the GeekWire Award for Health Innovation of the Year for Cancer AI Alliance. <br> (GeekWire Photo / Dan DeLong) </figcaption>
 </figure>
-
 
 ***
 ***
