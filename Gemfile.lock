@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/flori/json.git
-  revision: fa0671ccee70fd6653057df75a97b1ea3334ea87
+  revision: 138b9a2c4932ad2df1024ce3af18a5cc3ae9e901
   specs:
-    json (2.19.4)
+    json (2.19.8)
 
 GEM
   remote: https://rubygems.org/
@@ -46,11 +46,11 @@ GEM
       logger
     eventmachine (1.2.7)
     execjs (2.10.1)
-    faraday (2.14.1)
+    faraday (2.14.2)
       faraday-net_http (>= 2.0, < 3.5)
       json
       logger
-    faraday-net_http (3.4.2)
+    faraday-net_http (3.4.4)
       net-http (~> 0.5)
     ffi (1.17.4-arm64-darwin)
     ffi (1.17.4-x86_64-darwin)
