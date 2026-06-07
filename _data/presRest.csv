@@ -1,4 +1,6 @@
 role,talkTitle,talkVenue,talkLocation,talkDate
+"Fireside Chat","Building blocks for federated AI: CAIA’s common data model + governance framework","Mayo Clinic AI Research Summit","Rochester, MN","2026 June 04"
+"Panelist","Leveraging federated learning in the connected oncology ecosystem","Cancer Center Informatics Society (Ci4CC) Summit","San Diego, CA","2026 May 08"
 "Panelist","[AI with a mission: from strategy to high-stakes impact](https://youtu.be/L6Qllh2HUJo?si=FByX0qaCHO0WqVHf&t=1)","Google Next","Las Vegas, NV","2026 April 22"
 "Panelist","Agents of change: how AI creates new opportunities with human impact","AWS Re:Invent","Las Vegas, NV","2025 December 02"
 ,"The Cancer AI Alliance (CAIA): A unique alliance at the intersection of AI, tech, and cancer research","Cancer Center Informatics Society (Ci4CC) Community Call","Virtual","2025 November 20"
@@ -12,7 +14,7 @@ role,talkTitle,talkVenue,talkLocation,talkDate
 ,"Fostering autonomous and inclusive research","BioIT World","Boston, MA","2019 April 18"
 "Keynote","Mutual incentives: the sweet spot for collaboration","Integrating neuroinformatics research with industry","Toronto, CA","2019 March 25"
 "Panelist","Open science and FAIR data sharing principles","Grand Challenges Explorations: Data science approaches to improve maternal and child health in India, Brazil and Africa","New Delhi, India","2019 March 14"
-"Panelist","National data sharing strategies and initiatives, United States","Nature conference: redefining neurodegeneration","Toronto, CA","2018 December 5"
+"Panelist","National data sharing strategies and initiatives, United States","Nature conference: redefining neurodegeneration","Toronto, CA","2018 December 05"
 "Panelist","Data collection, analysis, and interpretation","CTTI Mobile Technologies recommendation launch at FDA","Silver Spring, MD","2018 July 17"
 "Panelist","Open sharing of clinical trial data","Society for Clinical Trials","Portland, OR","2018 May 20"
 "Keynote","Research decentralization: a changing biomedical research landscape","LeiShield kickoff meeting","Tunis, Tunisia","2018 May 08"
