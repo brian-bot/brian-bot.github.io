@@ -8,9 +8,9 @@
 # Site settings
 title: brian m. bot
 email: bbot@fredhutch.org
-description1: scientist
-description2: data strategist
-description3: alliance builder
+description1: scientific strategist
+description2: research integrator
+description3: ecosystem builder
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: BrianMBot
 github_username:  brian-bot

@@ -1,25 +1,9 @@
 ---
 layout: page
 title: about
-description: About Brian M. Bot's personal and professional life
+description: About Brian M. Bot
 permalink: /about/
 ---
-
-***
-***
-<br>
-
-I am the Director of AI & Data Science Partnerships at [Fred Hutch Cancer Center](https://www.fredhutch.org/en.html){:target="_blank"} and Director of the [Cancer AI Alliance (CAIA)](https://www.canceralliance.ai/){:target="_blank"} Strategic Coordinating Center. 
-I am a data scientist, strategist, and open knowledge advocate who has spent my career leading large-scale initiatives that operate at the intersection of data, technology, and biomedical research. 
-I enjoy solving complex, interdisciplinary problems with passionate people and for mission-driven organizations.
-
-Previously, I worked as a Data Strategy Consultant working on assignment for the Gates Foundation where I lead the Analytics Unit for their [DAC program](https://dac-trials.org/){:target="_blank"} and spent 11 years with [Sage Bionetworks](http://www.sagebionetworks.org){:target="_blank"} most recently serving as Chief of Staff and leading Outreach and Strategic Development on behalf of the Executive Leadership Team. 
-And if we go in the wayback machine, I worked as a statistician at the [Mayo Clinic](http://www.mayoclinic.org/){:target="_blank"} for seven years where I focused on colorectal cancer, clinical trials, and high-throughput genomics.
-
-I have been invited to share my experiences as an advisor to organizations such as the White House Office of Science and Technology Policy, the Gates Foundation, and the International Data Forum.
-Additionally, I was recognized by the Mozilla Foundation as one of the “[50 People Who Are Making the Internet a Better Place](https://medium.com/read-write-participate/guiding-change-towards-agency-41a657523ac3){:target="_blank"}” and received the [2020 Symbiont Award](https://researchsymbionts.org/){:target="_blank"} for sustained excellence in scientific data sharing.
-
-<br>
 
 ***
 ***
@@ -29,6 +13,28 @@ Additionally, I was recognized by the Mozilla Foundation as one of the “[50 Pe
 <img src="/images/geekwire.jpg" alt="Brian at GeekWire Awards" style="width:80%;display:block;margin-left:auto;margin-right:auto">
 <figcaption style="text-align: center"> Accepting the GeekWire Award for Health Innovation of the Year for Cancer AI Alliance. <br> (GeekWire Photo / Dan DeLong) </figcaption>
 </figure>
+
+***
+***
+<br>
+
+I thrive leading ambitious, cross-disciplinary initiatives at the intersection of biomedical research, technology, and mission-driven organizations. 
+Throughout my career, I've helped researchers, technologists, executives, funders, and policymakers work together to accelerate scientific discovery and maximize real-world impact.
+
+Today, I serve as Director of AI & Data Science Partnerships at [Fred Hutch Cancer Center](https://www.fredhutch.org/){:target="_blank"} and Director of the [Cancer AI Alliance (CAIA)](https://www.canceralliance.ai/){:target="_blank"} Strategic Coordinating Center, where I help build the partnerships, strategy, and organizational infrastructure needed to advance collaborative AI for cancer research.
+
+While my training is in statistics and data science, my career has evolved toward serving as a strategic integrator: bringing together diverse expertise, organizations, and ideas to launch new initiatives, cultivate partnerships, and translate complex scientific challenges into coordinated action. I excel in environments where progress depends on bridging disciplines rather than working within a single one.
+
+Previously, I served as a Data Strategy Consultant supporting the [Gates Foundation](https://www.gatesfoundation.org/){:target="_blank"}, where I led the analytics unit for [their program assessing informativeness in Global Health research](https://dac-trials.org/){:target="_blank"}. 
+Before that, I spent eleven years at [Sage Bionetworks](https://sagebionetworks.org/){:target="_blank"}, ultimately serving as Chief of Staff while leading Outreach and Strategic Development for the Executive Leadership Team. 
+Earlier in my career, I worked as a statistician at the [Mayo Clinic](https://www.mayoclinic.org/){:target="_blank"}, contributing to clinical trials, colorectal cancer research, and high-throughput genomics.
+
+Beyond my institutional roles, I've advised organizations including the White House Office of Science and Technology Policy, the Gates Foundation, and the International Data Forum on topics spanning data, AI, scientific collaboration, and open science. 
+My work has been recognized by the Mozilla Foundation, which named me one of the "[50 People Who Are Making the Internet a Better Place](https://www.mozillafoundation.org/en/blog/network-50/){:target="_blank"}," and by the [Symbiont Awards](https://researchsymbionts.org/){:target="_blank"} for sustained excellence in scientific data sharing.
+
+Whether building partnerships, designing collaborative research programs, or helping organizations navigate emerging technologies, I'm most energized by bringing together people with different expertise to solve problems that no single discipline can solve alone.
+
+<br>
 
 ***
 ***
