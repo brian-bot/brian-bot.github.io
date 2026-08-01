@@ -33,7 +33,6 @@ Beyond my institutional roles, I've advised organizations including the White Ho
 My work has been recognized by the Mozilla Foundation, which named me one of the "[50 People Who Are Making the Internet a Better Place](https://www.mozillafoundation.org/en/blog/network-50/){:target="_blank"}," and by the [Symbiont Awards](https://researchsymbionts.org/){:target="_blank"} for sustained excellence in scientific data sharing.
 
 Whether building partnerships, designing collaborative research programs, or helping organizations navigate emerging technologies, I'm most energized by bringing together people with different expertise to solve problems that no single discipline can solve alone.
-That's what motivates me.
 
 <br>
 
