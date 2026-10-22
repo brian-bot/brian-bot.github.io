@@ -10,8 +10,8 @@ permalink: /presentations/
 <br>
 
 <figure>
-<img src="/images/summittalk.jpg" alt="Brian at CC Summit" style="width:80%;display:block;margin-left:auto;margin-right:auto">
-<figcaption style="text-align: center"> 2017 Creative Commons Summit: Toronto, CAN </figcaption>
+<img src="/images/brianmbot-googlenext.png" alt="Brian at Google Next 2026" style="width:80%;display:block;margin-left:auto;margin-right:auto">
+<figcaption style="text-align: center"> 2026 Google Next: Las Vegas, NV </figcaption>
 </figure>
 
 ***

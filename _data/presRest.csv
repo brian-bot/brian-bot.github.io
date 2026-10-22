@@ -1,7 +1,9 @@
 role,talkTitle,talkVenue,talkLocation,talkDate
+"Workshop Co-Organizer","AI for Cancer Center Community Outreach and Engagement (COE): Foundations, Applications, and Responsible Use"," Cancer Center Community Impact Forum (CCCIF)","Seattle, WA","2026 September 27"
 "Fireside Chat","Building blocks for federated AI: CAIA’s common data model + governance framework","Mayo Clinic AI Research Summit","Rochester, MN","2026 June 04"
 "Panelist","Leveraging federated learning in the connected oncology ecosystem","Cancer Center Informatics Society (Ci4CC) Summit","San Diego, CA","2026 May 08"
-"Panelist","[AI with a mission: from strategy to high-stakes impact](https://youtu.be/L6Qllh2HUJo?si=FByX0qaCHO0WqVHf&t=1)","Google Next","Las Vegas, NV","2026 April 22"
+"Panelist","[AI with a mission: from strategy to high-stakes impact](https://youtu.be/L6Qllh2HUJo?si=FByX0qaCHO0WqVHf&t=1){:target='_blank'}","Google Next","Las Vegas, NV","2026 April 22"
+"Interview","[Advancing cancer research: using federated learning for collaborative AI training with CAIA](https://www.youtube.com/watch?v=bziGZewkngQ){:target='_blank'}","AI from the front lines: leaders driving real-world innovation and impact","Dallas, TX","2026 April 20"
 "Panelist","Agents of change: how AI creates new opportunities with human impact","AWS Re:Invent","Las Vegas, NV","2025 December 02"
 ,"The Cancer AI Alliance (CAIA): A unique alliance at the intersection of AI, tech, and cancer research","Cancer Center Informatics Society (Ci4CC) Community Call","Virtual","2025 November 20"
 "Panelist","The Cancer AI Alliance (CAIA): Fueling the future of cancer research","Deloitte AI Forum","Dallas, TX","2025 October 28"
